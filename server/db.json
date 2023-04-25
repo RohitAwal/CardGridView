@@ -1,0 +1,356 @@
+{
+  "card_lists": [
+    {
+      "id": 1,
+      "title": "Im Schlosstal",
+      "location": "91322 Grafenberg, Bayern, DE",
+      "price": "13$ Nacht",
+      "geheimtipp": true,
+      "images": [
+        "https://images.pexels.com/photos/9000153/pexels-photo-9000153.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/16486236/pexels-photo-16486236.jpeg",
+        "https://images.pexels.com/photos/16469319/pexels-photo-16469319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/13525587/pexels-photo-13525587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/15909375/pexels-photo-15909375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "likes": "100%",
+      "tags": [
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190326/ourmid/pngtree-vector-clock-icon-png-image_865317.jpg",
+          "name": "Zeit"
+        },
+        {
+          "icon": "https://e7.pngegg.com/pngimages/185/628/png-clipart-caravan-campervans-computer-icons-car-angle-van.png",
+          "name": "Wohnmobil & Van"
+        },
+        {
+          "icon": "https://cdn3.iconfinder.com/data/icons/camping-party/512/tent-rooftop-camping-travel-car-512.png",
+          "name": "Dachzelt"
+        },
+        {
+          "icon": "https://w7.pngwing.com/pngs/485/971/png-transparent-taxi-car-computer-icons-uber-taxi-driver-car-vehicle-black.png",
+          "name": "Uber 7m"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/3181/3181102.png",
+          "name": "Wohnwagen"
+        }
+      ],
+      "features": [
+        {
+          "icon": "https://icon-library.com/images/water-drop-png-icon/water-drop-png-icon-2.jpg",
+          "name": "Wasser"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/2797/2797775.png",
+          "name": "WC"
+        },
+        {
+          "icon": "https://www.pngfind.com/pngs/m/312-3123165_png-file-strom-icon-png-transparent-png.png",
+          "name": "Strom,"
+        },
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-wifi-vector-icon-png-image_696445.jpg",
+          "name": "WLAN"
+        },
+        {
+          "icon": "https://icon-library.com/images/dog-icon-png/dog-icon-png-7.jpg",
+          "name": "Tier"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Idyllisches See Camping",
+      "location": "91322 Grafenberg, Bayern, DE",
+      "price": "18$ Nacht",
+      "geheimtipp": false,
+      "images": [
+        "https://images.pexels.com/photos/8527370/pexels-photo-8527370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/15909375/pexels-photo-15909375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/16486236/pexels-photo-16486236.jpeg",
+        "https://images.pexels.com/photos/13525587/pexels-photo-13525587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "likes": "100%",
+      "tags": [
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190326/ourmid/pngtree-vector-clock-icon-png-image_865317.jpg",
+          "name": "Zeit"
+        },
+        {
+          "icon": "https://e7.pngegg.com/pngimages/185/628/png-clipart-caravan-campervans-computer-icons-car-angle-van.png",
+          "name": "Wohnmobil & Van"
+        },
+        {
+          "icon": "https://cdn3.iconfinder.com/data/icons/camping-party/512/tent-rooftop-camping-travel-car-512.png",
+          "name": "Dachzelt"
+        },
+        {
+          "icon": "https://w7.pngwing.com/pngs/485/971/png-transparent-taxi-car-computer-icons-uber-taxi-driver-car-vehicle-black.png",
+          "name": "Uber 7m"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/3181/3181102.png",
+          "name": "Wohnwagen"
+        }
+      ],
+      "features": [
+        {
+          "icon": "https://icon-library.com/images/water-drop-png-icon/water-drop-png-icon-2.jpg",
+          "name": "Wasser"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/2797/2797775.png",
+          "name": "WC"
+        },
+        {
+          "icon": "https://www.pngfind.com/pngs/m/312-3123165_png-file-strom-icon-png-transparent-png.png",
+          "name": "Strom,"
+        },
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-wifi-vector-icon-png-image_696445.jpg",
+          "name": "WLAN"
+        },
+        {
+          "icon": "https://icon-library.com/images/dog-icon-png/dog-icon-png-7.jpg",
+          "name": "Tier"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Im See Camp",
+      "location": "38395 Grafenberg, Bayern, ED",
+      "price": "53$ Nacht",
+      "geheimtipp": true,
+      "images": [
+        "https://images.pexels.com/photos/12131159/pexels-photo-12131159.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/16486236/pexels-photo-16486236.jpeg",
+        "https://images.pexels.com/photos/16469319/pexels-photo-16469319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/13525587/pexels-photo-13525587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/15909375/pexels-photo-15909375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "likes": "100%",
+      "tags": [
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190326/ourmid/pngtree-vector-clock-icon-png-image_865317.jpg",
+          "name": "Zeit"
+        },
+        {
+          "icon": "https://e7.pngegg.com/pngimages/185/628/png-clipart-caravan-campervans-computer-icons-car-angle-van.png",
+          "name": "Wohnmobil & Van"
+        },
+        {
+          "icon": "https://cdn3.iconfinder.com/data/icons/camping-party/512/tent-rooftop-camping-travel-car-512.png",
+          "name": "Dachzelt"
+        },
+        {
+          "icon": "https://w7.pngwing.com/pngs/485/971/png-transparent-taxi-car-computer-icons-uber-taxi-driver-car-vehicle-black.png",
+          "name": "Uber 7m"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/3181/3181102.png",
+          "name": "Wohnwagen"
+        }
+      ],
+      "features": [
+        {
+          "icon": "https://icon-library.com/images/water-drop-png-icon/water-drop-png-icon-2.jpg",
+          "name": "Wasser"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/2797/2797775.png",
+          "name": "WC"
+        },
+        {
+          "icon": "https://www.pngfind.com/pngs/m/312-3123165_png-file-strom-icon-png-transparent-png.png",
+          "name": "Strom,"
+        },
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-wifi-vector-icon-png-image_696445.jpg",
+          "name": "WLAN"
+        },
+        {
+          "icon": "https://icon-library.com/images/dog-icon-png/dog-icon-png-7.jpg",
+          "name": "Tier"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Schlosstal See",
+      "location": "454 Bayern, DE",
+      "price": "90$ Nacht",
+      "geheimtipp": true,
+      "images": [
+        "https://images.pexels.com/photos/15056108/pexels-photo-15056108.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/16469319/pexels-photo-16469319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/13525587/pexels-photo-13525587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/15909375/pexels-photo-15909375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "likes": "100%",
+      "tags": [
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190326/ourmid/pngtree-vector-clock-icon-png-image_865317.jpg",
+          "name": "Zeit"
+        },
+        {
+          "icon": "https://e7.pngegg.com/pngimages/185/628/png-clipart-caravan-campervans-computer-icons-car-angle-van.png",
+          "name": "Wohnmobil & Van"
+        },
+        {
+          "icon": "https://cdn3.iconfinder.com/data/icons/camping-party/512/tent-rooftop-camping-travel-car-512.png",
+          "name": "Dachzelt"
+        },
+        {
+          "icon": "https://w7.pngwing.com/pngs/485/971/png-transparent-taxi-car-computer-icons-uber-taxi-driver-car-vehicle-black.png",
+          "name": "Uber 7m"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/3181/3181102.png",
+          "name": "Wohnwagen"
+        }
+      ],
+      "features": [
+        {
+          "icon": "https://icon-library.com/images/water-drop-png-icon/water-drop-png-icon-2.jpg",
+          "name": "Wasser"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/2797/2797775.png",
+          "name": "WC"
+        },
+        {
+          "icon": "https://www.pngfind.com/pngs/m/312-3123165_png-file-strom-icon-png-transparent-png.png",
+          "name": "Strom,"
+        },
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-wifi-vector-icon-png-image_696445.jpg",
+          "name": "WLAN"
+        },
+        {
+          "icon": "https://icon-library.com/images/dog-icon-png/dog-icon-png-7.jpg",
+          "name": "Tier"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Im IDYllisches",
+      "location": "91345 Bayern, DE",
+      "price": "903$ Nacht",
+      "geheimtipp": true,
+      "images": [
+        "https://images.pexels.com/photos/9000157/pexels-photo-9000157.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/16486236/pexels-photo-16486236.jpeg",
+        "https://images.pexels.com/photos/16469319/pexels-photo-16469319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/13525587/pexels-photo-13525587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/15909375/pexels-photo-15909375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "likes": "50%",
+      "tags": [
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190326/ourmid/pngtree-vector-clock-icon-png-image_865317.jpg",
+          "name": "Zeit"
+        },
+        {
+          "icon": "https://e7.pngegg.com/pngimages/185/628/png-clipart-caravan-campervans-computer-icons-car-angle-van.png",
+          "name": "Wohnmobil & Van"
+        },
+        {
+          "icon": "https://cdn3.iconfinder.com/data/icons/camping-party/512/tent-rooftop-camping-travel-car-512.png",
+          "name": "Dachzelt"
+        },
+        {
+          "icon": "https://w7.pngwing.com/pngs/485/971/png-transparent-taxi-car-computer-icons-uber-taxi-driver-car-vehicle-black.png",
+          "name": "Uber 7m"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/3181/3181102.png",
+          "name": "Wohnwagen"
+        }
+      ],
+      "features": [
+        {
+          "icon": "https://icon-library.com/images/water-drop-png-icon/water-drop-png-icon-2.jpg",
+          "name": "Wasser"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/2797/2797775.png",
+          "name": "WC"
+        },
+        {
+          "icon": "https://www.pngfind.com/pngs/m/312-3123165_png-file-strom-icon-png-transparent-png.png",
+          "name": "Strom,"
+        },
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-wifi-vector-icon-png-image_696445.jpg",
+          "name": "WLAN"
+        },
+        {
+          "icon": "https://icon-library.com/images/dog-icon-png/dog-icon-png-7.jpg",
+          "name": "Tier"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "See Im Schlosstal",
+      "location": "91322 Dortmund, DE",
+      "price": "90$ Nacht",
+      "geheimtipp": false,
+      "images": [
+        "https://images.pexels.com/photos/9917006/pexels-photo-9917006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/15909375/pexels-photo-15909375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/13525587/pexels-photo-13525587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/16486236/pexels-photo-16486236.jpeg",
+        "https://images.pexels.com/photos/16469319/pexels-photo-16469319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "likes": "90%",
+      "tags": [
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190326/ourmid/pngtree-vector-clock-icon-png-image_865317.jpg",
+          "name": "Zeit"
+        },
+        {
+          "icon": "https://e7.pngegg.com/pngimages/185/628/png-clipart-caravan-campervans-computer-icons-car-angle-van.png",
+          "name": "Wohnmobil & Van"
+        },
+        {
+          "icon": "https://cdn3.iconfinder.com/data/icons/camping-party/512/tent-rooftop-camping-travel-car-512.png",
+          "name": "Dachzelt"
+        },
+        {
+          "icon": "https://w7.pngwing.com/pngs/485/971/png-transparent-taxi-car-computer-icons-uber-taxi-driver-car-vehicle-black.png",
+          "name": "Uber 7m"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/3181/3181102.png",
+          "name": "Wohnwagen"
+        }
+      ],
+      "features": [
+        {
+          "icon": "https://icon-library.com/images/water-drop-png-icon/water-drop-png-icon-2.jpg",
+          "name": "Wasser"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/2797/2797775.png",
+          "name": "WC"
+        },
+        {
+          "icon": "https://www.pngfind.com/pngs/m/312-3123165_png-file-strom-icon-png-transparent-png.png",
+          "name": "Strom,"
+        },
+        {
+          "icon": "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-wifi-vector-icon-png-image_696445.jpg",
+          "name": "WLAN"
+        },
+        {
+          "icon": "https://icon-library.com/images/dog-icon-png/dog-icon-png-7.jpg",
+          "name": "Tier"
+        }
+      ]
+    }
+  ]
+}
